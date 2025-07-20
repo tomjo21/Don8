@@ -180,16 +180,4 @@ in **Computer Science and Engineering**, academic year 2025–2026.
 - Don,Arjun,Sidharth,Tom
 
 
-### **Installation**
-```bash
-# Clone the repository
-git clone https://github.com/your-username/don8.git
-
-# Navigate to project directory
-cd don8
-
-# Install dependencies
-npm install
-
-# Set up envi
 
